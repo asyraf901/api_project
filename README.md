@@ -1,7 +1,7 @@
 # Simple API return data using GET variable
 
 ## Pre-requisites
-- kena isntall flask (Python web framework)
+- kena install flask (Python web framework)
 - run "python -m pip install flask" untuk install flask
 
 ### Cara pakai **01_api_simple.py**
