@@ -1,0 +1,57 @@
+{
+    "asyraf": {
+        "name": "Asyraf Hensem",
+        "age": 25,
+        "desc": "Asyraf seorang yang hensem"
+    },
+    "sazli": {
+        "name": "Samuel",
+        "age": 30,
+        "desc": "Mempunyai bulu kaki yang panjang"
+    },
+    "nayeon": {
+        "name": "Im Nayeon",
+        "age": 30,
+        "desc": "Vokal utama TWICE, terkenal dengan senyuman ceria dan tenaga positif."
+    },
+    "jeongyeon": {
+        "name": "Yoo Jeongyeon",
+        "age": 29,
+        "desc": "Vokal kuat dengan personaliti tenang dan caring terhadap ahli lain."
+    },
+    "momo": {
+        "name": "Hirai Momo",
+        "age": 29,
+        "desc": "Penari utama TWICE, dikenali dengan gaya menari yang power dan comel."
+    },
+    "sana": {
+        "name": "Minatozaki Sana",
+        "age": 28,
+        "desc": "Seorang ahli dari Jepun yang manis dan suka bergurau dengan ahli lain."
+    },
+    "jihyo": {
+        "name": "Park Jihyo",
+        "age": 28,
+        "desc": "Leader TWICE, vokal mantap dan sentiasa beri semangat pada kumpulan."
+    },
+    "mina": {
+        "name": "Myoui Mina",
+        "age": 28,
+        "desc": "Anggun dan lemah lembut, mempunyai latar belakang ballet."
+    },
+    "dahyun": {
+        "name": "Kim Dahyun",
+        "age": 27,
+        "desc": "Rapper TWICE yang penuh ekspresi dan sering buat ahli lain ketawa."
+    },
+    "chaeyoung": {
+        "name": "Son Chaeyoung",
+        "age": 26,
+        "desc": "Seorang artis dan rapper yang kreatif, suka melukis dan menulis lirik."
+    },
+    "tzuyu": {
+        "name": "Chou Tzuyu",
+        "age": 26,
+        "desc": "Ahli termuda TWICE, dari Taiwan, cantik dan mempunyai aura elegan."
+    }
+}
